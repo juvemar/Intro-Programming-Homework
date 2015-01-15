@@ -1,0 +1,27 @@
+ Code::Blocks
+
+	Code::Blocks is a free, open source cross-platform IDE which supports multiple compilers including GCC, Clang and Visual C++. It is developed in C++ using wxWidgets as the GUI toolkit. Using a plugin architecture, its capabilities and features are defined by the provided plugins. Currently, Code::Blocks is oriented towards C, C++, and Fortran.
+
+
+
+ Eclipse
+
+	In computer programming, Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications.Eclipse may also be used to develop applications in other programming languages: C, C++, Fortran, JavaScript, Perl, PHP, Python, R, Ruby etc.
+
+
+
+ Visual Studio
+
+	Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+
+
+
+ NetBeans
+
+	NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others. The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+
+
+ Aptana
+
+	Aptana Studio is an open source integrated development environment (IDE) for building web applications. Based on Eclipse, it supports JavaScript, HTML, DOM and CSS with code-completion, outlining, JavaScript debugging, error and warning notifications and integrated documentation.

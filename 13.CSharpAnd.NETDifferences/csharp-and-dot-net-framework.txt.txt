@@ -1,0 +1,1 @@
+	C# is a programming language, while .NET is a Microsoft operating system platform which represents an application framework library called .NET Framework and a Common Language Runtime which is the runtime in which .NET assemblies are run. C# is designed to work with Microsoft's .Net platform.
